@@ -1,9 +1,9 @@
 # Module: MMM-DateOnly
 The `MMM-DateOnly` module is a third party module for the MagicMirror universe.
-This module displays the current date. The information will be updated every minute (might need revision).
+This module displays the current date. This is module is derived from the standard calender-and-clock modules but with the advantage that you can only display the date (if you want to display the clock somewhere else on the screen or - as in my case - you have several clocks hanging around in the kitchen near the MagicMirror). The information will be updated every minute (might need revision, possibly more elegant if only during the change of the date...).
 
 ## Screenshot
-(MMM-DateOnly.png)
+![Example](MMM-DateOnly.png)
 
 ## Using the module
 
